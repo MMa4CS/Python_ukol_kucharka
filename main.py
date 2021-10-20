@@ -2,10 +2,10 @@
 # import datetime
 # import time
 from dateutil.relativedelta import relativedelta
-import sys
+import sys  # zkusit si import i jinak
 
 # importy mých knihovniček/skriptů
-import parsovani
+import parsovani  # zkusit si import i jinak
 from validace import *
 from estetika import *
 from recepty import *
